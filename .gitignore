@@ -1,0 +1,146 @@
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+db.sqlite3
+/media
+/static
+*.env
+*.venv
+venv/
+ENV/
+env/
+.env/
+*.local
+
+# MyPy
+.mypy_cache/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Celery
+celerybeat-schedule
+*.pid
+*.log
+
+# Docker
+*.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.pyo
+*.pyd
+.coverage
+
+# Python Environment
+env/
+venv/
+ENV/
+.venv/
+
+# Distribution / Packaging
+*.egg
+*.egg-info
+dist/
+build/
+.eggs/
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+db.sqlite3
+/media
+/static
+*.env
+*.venv
+venv/
+ENV/
+env/
+.env/
+*.local
+
+# MyPy
+.mypy_cache/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Celery
+celerybeat-schedule
+*.pid
+*.log
+
+# Docker
+*.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.pyo
+*.pyd
+.coverage
+
+# Python Environment
+env/
+venv/
+ENV/
+.venv/
+
+# Distribution / Packaging
+*.egg
+*.egg-info
+dist/
+build/
+.eggs/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# System Files
+.DS_Store
+Thumbs.db
+
+requirements.txt
